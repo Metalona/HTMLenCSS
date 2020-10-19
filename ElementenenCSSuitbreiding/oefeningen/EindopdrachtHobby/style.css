@@ -1,0 +1,123 @@
+@charset 'utf-8';
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;900&display=swap') ;
+.button1{
+	background-color: #00aaff;
+
+}
+
+
+.navigatie{background-color: #66ccff;
+			font-family: 'Nunito;400', sans-serif;
+			font-size: 18px;
+
+ }
+
+.wat{
+	text-align: center;
+	padding: 10px;
+	margin: 10px;
+}
+
+.wat2{
+	background-color: #ffbb33;
+}
+
+.afbeeldingen{
+	text-align: center;
+	padding: 20px;
+	margin: 20px;
+}
+
+.samenvatting{
+	width: 400px;
+	border-style: solid;
+	border-width: 3px;
+	background-color: #ffbb33;
+	font-family: 'Nunito;700', sans-serif;
+	padding: 10px;
+	margin: 10px;
+}
+
+.hoewerken{
+	padding: 10px;
+	margin: 10px;
+}
+
+.stappen{
+	padding: 10px;
+	margin: 10px;
+
+}
+
+.benodigdheden{
+	padding: 10px;
+	margin: 10px;
+}
+
+.zelfstarten{
+	padding: 10px;
+	margin: 10px;
+}
+
+.review{
+	border-style: solid;
+	border-width: 3px;
+	width: 300px;
+	background-color: #ffbb33;
+	padding: 10px;
+	margin: 10px;
+
+}
+
+.epoxy{
+	padding: 10px;
+	margin: 10px;
+}
+
+abbr {
+	cursor: help;
+	border-bottom: 1px dotted grey;
+}
+
+dfn{
+	cursor: help;
+	border-bottom: 1px dotted grey;
+
+}
+
+h1{
+	border-style: solid;
+	border-width: 3px;
+	font-family: 'Nunito;900', sans-serif;
+	text-align: center;
+	font-size: 28px;
+	padding: 10px;
+	margin: 10px;
+}
+
+h2{
+	font-family: 'Nunito;700', sans-serif;
+	font-size: 22px;
+	padding: 10px;
+	margin: 10px;
+}
+
+
+p{
+	font-family: 'Nunito;400', sans-serif;
+	line-height: 1.5;
+	font-size: 18px;
+	padding: 10px;
+	margin: 10px;
+
+}
+
+img{
+	margin: 10px ;
+	padding: 10px  ;
+}
+
+body{
+	background-color: #D4ECEC;
+}
