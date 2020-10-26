@@ -1,0 +1,60 @@
+.speciaal{
+}
+
+#hoofdtitel{
+
+}
+p{
+	color: blue;
+	background-color: lightgrey;
+}
+
+a:link{
+	color: red;
+}
+
+a:visited{
+	color: yellow;
+}
+
+a:hover{
+	color: brown;
+}
+
+p:hover{
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.navigatie li:first-child {
+color: red;
+}
+
+.navigatie li:last-child{
+	color: blue;
+}
+
+p::first-line{
+	text-transform: uppercase;
+}
+
+p::first-letter{
+	font-size: 30px;
+}
+
+p::selection{
+	background-color: red;
+	color: #FFF;
+}
+
+.navigatie li:nth-child(3){
+	color: green;
+}
+
+body{
+	
+	background-image: url(images/achtergrond.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	
+}
