@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+}
+
+
+.cf:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.header{
+    background-color: black;
+    color: lightgrey;
+}
+.container {
+    width: 1000px;
+    margin: auto;
+    padding: 10px;
+    background-color:   #E8E8E8;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+footer {
+    clear: both;
+
+}

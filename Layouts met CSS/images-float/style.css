@@ -1,0 +1,14 @@
+.container {
+  max-width: 800px;
+  margin: auto;
+}
+
+.img-left {
+  float: left;
+  margin: .5rem .5rem .5rem 0;
+}
+
+.img-right {
+  float: right;
+  margin: .5rem 0 .5rem .5rem;
+}
